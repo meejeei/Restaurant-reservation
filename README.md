@@ -25,15 +25,15 @@
 ![res_time](https://github.com/meejeei/Restaurant-reservation/assets/133334322/cfadc767-aebe-4c63-97eb-930ec20be529)
 ### 해당 음식점의 예약 시간을 선택할 수 있는 화면
 ### SQL의 예약 정보 저장 테이블 (Table_res)를 통하여 예약 여부 확인 가능
-### 해당 시간대의 테이블이 모두 예약 완료 -> 빨강
-###                     빈 테이블이 존재 -> 노랑
+### 해당 시간대의 테이블이 모두 예약 완료 :point_right: 빨강
+###                     빈 테이블이 존재 :point_right: 노랑
 ### 시간 선택 시 테이블 예약 화면으로 이동
 <br/><br/>
 
 ## 6. 테이블 예약
 ![res_table](https://github.com/meejeei/Restaurant-reservation/assets/133334322/41bcd4a2-30cc-4e6d-a48c-472e15ee1e82)
-### 해당 테이블이 예약 완료 -> 빨강
-###            비어 있을 시 -> 노랑
+### 해당 테이블이 예약 완료 :point_right: 빨강
+###            비어 있을 시 :point_right: 노랑
 <br/><br/>
 
 ## 7. 음식점 위치 확인 
