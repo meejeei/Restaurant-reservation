@@ -8,4 +8,6 @@
 ### 계정이 없을 시 회원가입을 통해 계정 생성 
 ### SQL의 Users 테이블에 바로 아이디, 비밀번호 추가
 
-##. 3. 
+##. 3. 음식점 검색 화면
+![search](https://github.com/meejeei/Restaurant-reservation/assets/133334322/ced75875-36dd-457a-8a37-a0168b5f32ef)
+### 음식점 이름 혹은 음식 종류를 선택
