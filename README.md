@@ -6,4 +6,6 @@
 ## 2. 회원가입 
 ![sign](https://github.com/meejeei/Restaurant-reservation/assets/133334322/d2149faa-58bc-4df4-9fb8-915dc6b3ec1d)
 ### 계정이 없을 시 회원가입을 통해 계정 생성 
-### SQL의 Users 테이블에 바로 아이디, 비밀번호 입력
+### SQL의 Users 테이블에 바로 아이디, 비밀번호 추가
+
+##. 3. 
